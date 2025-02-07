@@ -1,4 +1,4 @@
-- 👋 Hi, I’m benedict
+- 👋 Hi, I’m Benedict
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning security
 - 💞️ I’m looking to collaborate on my field
